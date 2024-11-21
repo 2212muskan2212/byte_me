@@ -1,0 +1,5 @@
+Burger, Snacks, 50.0, true
+Roll,Snacks,80.0,true
+Dal makhani,North Indian,180.0,false
+Tea,Beverage,20.0,true
+Coffee,Beverage,35.0,true
